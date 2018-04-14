@@ -7,3 +7,4 @@ edit by real develop
 edit by test
 edit by develop
 edit by local
+test ssh
